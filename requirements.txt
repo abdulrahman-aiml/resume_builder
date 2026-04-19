@@ -1,0 +1,5 @@
+crewai
+python-dotenv
+litellm
+docx2pdf
+pypandoc
